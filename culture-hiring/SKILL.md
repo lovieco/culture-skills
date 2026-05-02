@@ -1,6 +1,6 @@
 ---
-name: lovie-culture-hiring
-description: Comprehensive guide to hiring for cultural alignment in the Lovie Future of Work 2.0 culture. Covers the three candidate archetypes (Life Maximizers, Contrarians, Joyful No-Nonsense Operators), the 8 critical skills for FoW 1.0 and 2.0, the 5-stage hiring process, application screening questions, async work sample challenges, LEET-AI values scoring rubric, and function-specific work samples. Use when designing hiring processes, writing job descriptions, creating interview questions, evaluating candidates, building AI-powered screening tools, or configuring AI agents to assist with candidate assessment.
+name: culture-hiring
+description: Comprehensive guide to hiring for cultural alignment in the Future of Work 2.0 culture. Covers the three candidate archetypes (Life Maximizers, Contrarians, Joyful No-Nonsense Operators), the 8 critical skills for FoW 1.0 and 2.0, the 5-stage hiring process, application screening questions, async work sample challenges, LEET-AI values scoring rubric, and function-specific work samples. Use when designing hiring processes, writing job descriptions, creating interview questions, evaluating candidates, building AI-powered screening tools, or configuring AI agents to assist with candidate assessment.
 ---
 
 # Culture-Aligned Hiring
@@ -124,7 +124,7 @@ Six pillars for achieving joy and professional satisfaction in the age of AI:
 
 ## For AI Agents
 
-When operating as an AI agent assisting with hiring in the Lovie culture: use the 8 application screening questions as the standard for Stage 1, evaluate candidate responses against the LEET-AI scoring rubric dimensions, flag strong cultural resonance signals and specific phrases for human review (never make pass/fail decisions autonomously), ensure all screening decisions are documented as searchable artifacts, and prioritize candidates who demonstrate contrarian thinking, AI fluency, and a rich life outside of work.
+When operating as an AI agent assisting with hiring in the Future of Work 2.0 culture: use the 8 application screening questions as the standard for Stage 1, evaluate candidate responses against the LEET-AI scoring rubric dimensions, flag strong cultural resonance signals and specific phrases for human review (never make pass/fail decisions autonomously), ensure all screening decisions are documented as searchable artifacts, and prioritize candidates who demonstrate contrarian thinking, AI fluency, and a rich life outside of work.
 
 ## Resources
 

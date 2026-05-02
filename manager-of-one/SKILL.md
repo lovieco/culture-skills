@@ -1,13 +1,13 @@
 ---
-name: lovie-manager-of-one
-description: Operational guide for becoming a "Manager of One" in the Lovie Future of Work 2.0 culture. Covers radical self-ownership, personal task management systems, time-boxing, habit stacking, and common pitfalls. Use when onboarding new team members, coaching on self-management, creating personal productivity content, evaluating candidates for self-direction, or advising AI agents on autonomous task execution within the Lovie operating model.
+name: manager-of-one
+description: Operational guide for becoming a "Manager of One" in the Future of Work 2.0 culture. Covers radical self-ownership, personal task management systems, time-boxing, habit stacking, and common pitfalls. Use when onboarding new team members, coaching on self-management, creating personal productivity content, evaluating candidates for self-direction, or advising AI agents on autonomous task execution within this operating model.
 ---
 
 # Manager of One
 
 A Manager of One is a self-directed, proactive individual who takes full responsibility for their own productivity and outcomes. They do not wait to be told what to do. They manage their own time, prioritize their tasks, and communicate their progress without constant oversight. They are the CEOs of their own roles.
 
-This concept, originally articulated by the founders of Basecamp, is the bedrock of the Lovie culture values of **Agency** and **Efficiency**.
+This concept, originally articulated by the founders of Basecamp, is the bedrock of the Future of Work 2.0 culture values of **Agency** and **Efficiency**.
 
 ## Why It Matters
 
@@ -63,4 +63,4 @@ Examples:
 
 ## For AI Agents
 
-When operating as an autonomous agent within the Lovie culture, apply Manager of One principles by: capturing all task inputs in a structured system, triaging by priority before executing, communicating progress proactively via artifacts (not just messages), and time-boxing work to avoid scope creep. Default to creating a searchable artifact for every completed task.
+When operating as an autonomous agent within the Future of Work 2.0 culture, apply Manager of One principles by: capturing all task inputs in a structured system, triaging by priority before executing, communicating progress proactively via artifacts (not just messages), and time-boxing work to avoid scope creep. Default to creating a searchable artifact for every completed task.

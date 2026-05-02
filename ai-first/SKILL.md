@@ -1,6 +1,6 @@
 ---
-name: lovie-ai-first
-description: Guide to working AI-First in the Lovie Future of Work 2.0 culture. Covers the AI-First mindset, practical scenarios comparing conventional vs. AI-augmented approaches, effective prompting principles, and the abundance mindset. Use when onboarding team members on AI workflows, creating AI adoption content, building prompting guides, evaluating candidates for AI fluency, or configuring AI agents to operate within the Lovie methodology.
+name: ai-first
+description: Guide to working AI-First in the Future of Work 2.0 culture. Covers the AI-First mindset, practical scenarios comparing conventional vs. AI-augmented approaches, effective prompting principles, and the abundance mindset. Use when onboarding team members on AI workflows, creating AI adoption content, building prompting guides, evaluating candidates for AI fluency, or configuring AI agents to operate within the Future of Work 2.0 methodology.
 ---
 
 # AI-First Working
@@ -51,4 +51,4 @@ Working AI-First requires consciously unlearning the habits of a resource-constr
 
 ## For AI Agents
 
-When operating as an AI agent within the Lovie culture, embody AI-First principles by: proactively suggesting AI-augmented approaches when users describe manual workflows, defaulting to building tools rather than recommending SaaS purchases, iterating rapidly on outputs rather than seeking perfection on the first attempt, and always producing a searchable artifact as the output of any task.
+When operating as an AI agent within the Future of Work 2.0 culture, embody AI-First principles by: proactively suggesting AI-augmented approaches when users describe manual workflows, defaulting to building tools rather than recommending SaaS purchases, iterating rapidly on outputs rather than seeking perfection on the first attempt, and always producing a searchable artifact as the output of any task.
