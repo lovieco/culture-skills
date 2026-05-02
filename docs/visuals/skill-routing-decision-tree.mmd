@@ -1,0 +1,17 @@
+flowchart TD
+    start[What kind of task is this?]
+    start --> hiring{Hiring or candidate evaluation?}
+    hiring -- Yes --> cultureHiring[culture-hiring]
+    hiring -- No --> leadership{Leadership or collaboration?}
+    leadership -- Yes --> leadershipCollab[leadership-collaboration]
+    leadership -- No --> wellbeing{Employment, onboarding, or wellbeing?}
+    wellbeing -- Yes --> employmentWellbeing[employment-wellbeing]
+    wellbeing -- No --> async{Communication, scheduling, or time zones?}
+    async -- Yes --> asyncFirst[async-first]
+    async -- No --> artifact{Documentation, meetings, or knowledge management?}
+    artifact -- Yes --> artifactFirst[artifact-first]
+    artifact -- No --> ai{AI tools, prompting, or agent workflows?}
+    ai -- Yes --> aiFirst[ai-first]
+    ai -- No --> manager{Self-management, capacity, or autonomy?}
+    manager -- Yes --> managerOne[manager-of-one]
+    manager -- No --> os[culture-os]
