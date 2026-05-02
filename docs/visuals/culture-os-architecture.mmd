@@ -1,0 +1,23 @@
+flowchart TB
+    purpose[Purpose: time-flexible, AI-enabled work]
+    kernel[LEET-AI values kernel]
+    runtime[Operating runtime]
+    skills[Micro-skill modules]
+    artifacts[Searchable artifacts]
+    humans[Humans]
+    agents[AI agents]
+    outcomes[Outcomes: clarity, agency, speed, wellbeing]
+
+    purpose --> kernel
+    kernel --> runtime
+    runtime --> skills
+    skills --> artifacts
+    artifacts --> humans
+    artifacts --> agents
+    humans --> outcomes
+    agents --> outcomes
+    outcomes --> artifacts
+
+    runtime --> ai[AI-First]
+    runtime --> async[Async-First]
+    runtime --> artifact[Artifact-First]
