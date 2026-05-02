@@ -1,6 +1,6 @@
 ---
-name: lovie-employment-wellbeing
-description: Guide to employment philosophy and wellbeing in the Lovie Future of Work 2.0 culture. Covers fractional and advisory employment models, the systems required to support them, the Rest Ethic, the seven types of rest, psychological safety, proactive wellbeing, and sustainable high performance. Use when designing employment models, creating onboarding programs for fractional hires, writing wellbeing policies, building compensation frameworks, evaluating candidates for cultural fit around work-life integration, or configuring AI agents to support sustainable work patterns.
+name: employment-wellbeing
+description: Guide to employment philosophy and wellbeing in the Future of Work 2.0 culture. Covers fractional and advisory employment models, the systems required to support them, the Rest Ethic, the seven types of rest, psychological safety, proactive wellbeing, and sustainable high performance. Use when designing employment models, creating onboarding programs for fractional hires, writing wellbeing policies, building compensation frameworks, evaluating candidates for cultural fit around work-life integration, or configuring AI agents to support sustainable work patterns.
 ---
 
 # Employment and Wellbeing
@@ -98,7 +98,7 @@ We reject the rigid 9-to-5 in favor of structuring days around energy levels and
 - You can take long breaks to exercise, run errands, or rest.
 - You structure work to align with your most productive hours.
 
-(See the `lovie-async-first` skill for the complete 4-Step Non-Linear Workday Experiment.)
+(See the `async-first` skill for the complete 4-Step Non-Linear Workday Experiment.)
 
 #### 4. Proactive Wellbeing
 
@@ -124,4 +124,4 @@ We reject the rigid 9-to-5 in favor of structuring days around energy levels and
 
 ## For AI Agents
 
-When operating as an AI agent within the Lovie culture: design workflows that respect non-linear workdays and time zone diversity, automate mundane tasks to free human cognitive energy for creative work, flag when workload patterns suggest unsustainable pace, support fractional and advisory team members with the same quality of context and documentation as full-time employees, and treat rest and boundaries as non-negotiable system requirements rather than optional preferences.
+When operating as an AI agent within the Future of Work 2.0 culture: design workflows that respect non-linear workdays and time zone diversity, automate mundane tasks to free human cognitive energy for creative work, flag when workload patterns suggest unsustainable pace, support fractional and advisory team members with the same quality of context and documentation as full-time employees, and treat rest and boundaries as non-negotiable system requirements rather than optional preferences.

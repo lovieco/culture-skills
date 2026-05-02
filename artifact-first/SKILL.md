@@ -1,6 +1,6 @@
 ---
-name: lovie-artifact-first
-description: Guide to working Artifact-First in the Lovie Future of Work 2.0 culture, including documentation culture, meeting hygiene, and creating searchable organizational assets. Covers the three golden rules (search before you ask, document in Notion not Slack, share work early in public), meeting preparation/execution/follow-up, and the Fireflies.ai workflow. Use when onboarding team members on documentation practices, designing meeting workflows, creating knowledge base content, evaluating candidates for documentation discipline, or configuring AI agents to produce artifacts as their primary output.
+name: artifact-first
+description: Guide to working Artifact-First in the Future of Work 2.0 culture, including documentation culture, meeting hygiene, and creating searchable organizational assets. Covers the three golden rules (search before you ask, document in Notion not Slack, share work early in public), meeting preparation/execution/follow-up, and the Fireflies.ai workflow. Use when onboarding team members on documentation practices, designing meeting workflows, creating knowledge base content, evaluating candidates for documentation discipline, or configuring AI agents to produce artifacts as their primary output.
 ---
 
 # Artifact-First Working
@@ -99,4 +99,4 @@ The meeting is ephemeral; the artifact it produces is permanent. The convener sh
 
 ## For AI Agents
 
-When operating as an AI agent within the Lovie culture, embody artifact-first principles by: always producing a searchable, structured document as the primary output of any task (not just a chat message), searching existing knowledge bases before generating new content, structuring outputs with clear headings and metadata for future discoverability, and treating every interaction as an opportunity to build cumulative organizational intelligence.
+When operating as an AI agent within the Future of Work 2.0 culture, embody artifact-first principles by: always producing a searchable, structured document as the primary output of any task (not just a chat message), searching existing knowledge bases before generating new content, structuring outputs with clear headings and metadata for future discoverability, and treating every interaction as an opportunity to build cumulative organizational intelligence.

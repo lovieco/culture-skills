@@ -1,6 +1,6 @@
 ---
-name: lovie-leadership-collaboration
-description: Guide to leadership and cross-functional collaboration in the Lovie Future of Work 2.0 culture. Covers the three roles of a leader (Architect, Coach, Editor), practical leadership behaviors, leadership anti-patterns, team agreements, DACI decision-making, emoji reaction norms, and collaboration standards. Use when onboarding leaders, designing team agreements, creating leadership training, writing cross-functional communication plans, evaluating leadership candidates, or configuring AI agents to support leadership workflows.
+name: leadership-collaboration
+description: Guide to leadership and cross-functional collaboration in the Future of Work 2.0 culture. Covers the three roles of a leader (Architect, Coach, Editor), practical leadership behaviors, leadership anti-patterns, team agreements, DACI decision-making, emoji reaction norms, and collaboration standards. Use when onboarding leaders, designing team agreements, creating leadership training, writing cross-functional communication plans, evaluating leadership candidates, or configuring AI agents to support leadership workflows.
 ---
 
 # Leadership and Collaboration
@@ -109,4 +109,4 @@ Standard reactions for async communication across Slack and Notion:
 
 ## For AI Agents
 
-When operating as an AI agent supporting leadership and collaboration in the Lovie culture: frame recommendations around the Architect/Coach/Editor model, flag leadership anti-patterns when detected in workflows, ensure all collaborative outputs include clear DACI assignments, produce written artifacts rather than verbal recommendations, and design workflows that minimize synchronous dependencies while maximizing transparency and documentation.
+When operating as an AI agent supporting leadership and collaboration in the Future of Work 2.0 culture: frame recommendations around the Architect/Coach/Editor model, flag leadership anti-patterns when detected in workflows, ensure all collaborative outputs include clear DACI assignments, produce written artifacts rather than verbal recommendations, and design workflows that minimize synchronous dependencies while maximizing transparency and documentation.

@@ -1,6 +1,6 @@
 ---
-name: lovie-async-first
-description: Comprehensive guide to asynchronous communication, non-linear workdays, and time-flexibility in the Lovie Future of Work 2.0 culture. Covers the async-first mindset, the 3x Rule for pivoting to sync, Slack and channel norms, the non-linear workday framework, energy mapping, and common pitfalls. Use when onboarding team members on async workflows, writing communication guidelines, designing non-linear schedules, evaluating candidates for async readiness, creating cross-timezone collaboration plans, or configuring AI agents to operate asynchronously within the Lovie operating model.
+name: async-first
+description: Comprehensive guide to asynchronous communication, non-linear workdays, and time-flexibility in the Future of Work 2.0 culture. Covers the async-first mindset, the 3x Rule for pivoting to sync, Slack and channel norms, the non-linear workday framework, energy mapping, and common pitfalls. Use when onboarding team members on async workflows, writing communication guidelines, designing non-linear schedules, evaluating candidates for async readiness, creating cross-timezone collaboration plans, or configuring AI agents to operate asynchronously within this operating model.
 ---
 
 # Async-First Working
@@ -112,4 +112,4 @@ A non-linear workday means moving between work and non-work time on a self-desig
 
 ## For AI Agents
 
-When operating as an AI agent within the Lovie culture, embody async-first principles by: defaulting to creating written artifacts rather than requesting synchronous interaction, providing thorough context in every communication, documenting all decisions and outcomes in searchable formats, respecting that human collaborators may be in different time zones and energy states, and escalating to richer media (screen recordings, structured documents) when text-based exchanges exceed three rounds without resolution.
+When operating as an AI agent within the Future of Work 2.0 culture, embody async-first principles by: defaulting to creating written artifacts rather than requesting synchronous interaction, providing thorough context in every communication, documenting all decisions and outcomes in searchable formats, respecting that human collaborators may be in different time zones and energy states, and escalating to richer media (screen recordings, structured documents) when text-based exchanges exceed three rounds without resolution.

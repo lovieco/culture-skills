@@ -2,34 +2,36 @@
 
 **Open-source culture skills for humans and AI agents.**
 
+These folder names intentionally use company-neutral identifiers so teams can fork, adapt, and teach the skills inside their own organizations without making the library feel exclusive to any single company.
+
 Culture skills are modular, self-contained packages that encode how an organization works — its values, communication norms, decision frameworks, and operational philosophies. Unlike a static handbook, each skill is designed to be actionable by both humans and AI agents.
 
 ## Skills
 
 | Skill | Description |
 |-------|-------------|
-| **[lovie-culture-os](./lovie-culture-os)** | Master index — LEET-AI values framework, 30 operating principles, and routing guide to all micro-skills |
-| **[lovie-manager-of-one](./lovie-manager-of-one)** | Self-management, time-boxing, the 6-step system, and autonomy framework |
-| **[lovie-ai-first](./lovie-ai-first)** | AI integration in daily workflows, prompting excellence, and the 4 AI agent archetypes |
-| **[lovie-async-first](./lovie-async-first)** | 3x Rule, Slack norms, non-linear workday, and energy mapping |
-| **[lovie-artifact-first](./lovie-artifact-first)** | Three golden rules of documentation, meeting hygiene, and the Osmosis Signal |
-| **[lovie-culture-hiring](./lovie-culture-hiring)** | 5-stage hiring process, LEET-AI scoring rubric, and candidate archetypes |
-| **[lovie-leadership-collaboration](./lovie-leadership-collaboration)** | Architect/Coach/Editor leadership model, DACI framework, and team agreements |
-| **[lovie-employment-wellbeing](./lovie-employment-wellbeing)** | Fractional/advisory employment models, Rest Ethic, and sustainable high performance |
+| **[culture-os](./culture-os)** | Master index — LEET-AI values framework, 30 operating principles, and routing guide to all micro-skills |
+| **[manager-of-one](./manager-of-one)** | Self-management, time-boxing, the 6-step system, and autonomy framework |
+| **[ai-first](./ai-first)** | AI integration in daily workflows, prompting excellence, and the 4 AI agent archetypes |
+| **[async-first](./async-first)** | 3x Rule, Slack norms, non-linear workday, and energy mapping |
+| **[artifact-first](./artifact-first)** | Three golden rules of documentation, meeting hygiene, and the Osmosis Signal |
+| **[culture-hiring](./culture-hiring)** | 5-stage hiring process, LEET-AI scoring rubric, and candidate archetypes |
+| **[leadership-collaboration](./leadership-collaboration)** | Architect/Coach/Editor leadership model, DACI framework, and team agreements |
+| **[employment-wellbeing](./employment-wellbeing)** | Fractional/advisory employment models, Rest Ethic, and sustainable high performance |
 
 ## Architecture
 
-The library uses a **micro-skills architecture**: one master index skill (`lovie-culture-os`) provides the values framework and routes to seven specialized micro-skills. Each micro-skill is self-contained — you can read and use it independently without the others.
+The library uses a **micro-skills architecture**: one master index skill (`culture-os`) provides the values framework and routes to seven specialized micro-skills. Each micro-skill is self-contained — you can read and use it independently without the others.
 
 ```
-lovie-culture-os (master index)
-├── lovie-manager-of-one
-├── lovie-ai-first
-├── lovie-async-first
-├── lovie-artifact-first
-├── lovie-culture-hiring
-├── lovie-leadership-collaboration
-└── lovie-employment-wellbeing
+culture-os (master index)
+├── manager-of-one
+├── ai-first
+├── async-first
+├── artifact-first
+├── culture-hiring
+├── leadership-collaboration
+└── employment-wellbeing
 ```
 
 ## Usage
